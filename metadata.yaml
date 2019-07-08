@@ -1,0 +1,28 @@
+_repo: Suomalaisia-keskiajan-tutkimuksia-Veroja-laitoksia-virkamiehia_59871
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Voionmaa, Väinö
+    aliases:
+    - Voionmaa, Kaarle Väinö
+    - Wallin, Väinö
+    - Voionmaa, Vaino
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '45534'
+    url: http://www.gutenberg.org/2009/agents/45534
+description: ''
+gutenberg_issued: '2019-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59871'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Suomalaisia keskiajan tutkimuksia
+
+  Veroja, laitoksia, virkamiehiä'
+url: http://www.gutenberg.org/ebooks/59871
